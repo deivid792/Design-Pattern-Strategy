@@ -1,0 +1,14 @@
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\bin\Debug\net9.0\StrategyPatternPayment.exe
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\bin\Debug\net9.0\StrategyPatternPayment.deps.json
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\bin\Debug\net9.0\StrategyPatternPayment.runtimeconfig.json
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\bin\Debug\net9.0\StrategyPatternPayment.dll
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\bin\Debug\net9.0\StrategyPatternPayment.pdb
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.AssemblyInfoInputs.cache
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.AssemblyInfo.cs
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.csproj.CoreCompileInputs.cache
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.dll
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\refint\StrategyPatternPayment.dll
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.pdb
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\StrategyPatternPayment.genruntimeconfig.cache
+C:\Users\deivi\OneDrive\Desktop\StrategyPatternPayment\obj\Debug\net9.0\ref\StrategyPatternPayment.dll
